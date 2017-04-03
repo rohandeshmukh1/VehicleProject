@@ -1,4 +1,4 @@
-
+// boat file
 package VehiclePackage;
 
 public class Boat extends Vehicle{
